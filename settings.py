@@ -2,3 +2,5 @@ SCREEN_WIDTH: int = 800
 SCREEN_HEIGHT: int = 600
 GAME_NAME: str = 'GAME'
 FPS: int = 60
+
+GRAVITY: float = 0.003
